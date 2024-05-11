@@ -14,42 +14,43 @@ Con la base de datos proporcionada por el SRI en el año 2023 mediante limpieza 
  
 La metodología que se utilizó fue la siguiente: 
 
-•	Se utilizó la base de datos completa de todas las transacciones en el año 2023 
-•	Se importó a un notebook de Python en jupyter y visual studio 
-•	Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
-•	Prosiguió la limpieza de datos: 
-o	Estructurar el data frame omitiendo separadores
-o	Eliminando y garantizando que no existan datos duplicados 
-o	Transformar la mayoría de variables que se leían como texto cadena previo a numérico. 
-o	El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos 
-o	Cargar sea born y matplotlib para generar los primeros gráficos de análisis 
-o	Con el soporte de Tableu un software para explorar, crear visualizaciones se elaborar las demás gráficas para un análisis más exhaustivo de la data. 
+-Se utilizó la base de datos completa de todas las transacciones en el año 2023 
+-	Se importó a un notebook de Python en jupyter y visual studio 
+-Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
+-	Prosiguió la limpieza de datos:
+  
+-Estructurar el data frame omitiendo separadores
+-Eliminando y garantizando que no existan datos duplicados 
+-	Transformar la mayoría de variables que se leían como texto cadena previo a numérico. 
+-El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos 
+-Cargar sea born y matplotlib para generar los primeros gráficos de análisis 
+-	Con el soporte de Tableu un software para explorar, crear visualizaciones se elaborar las demás gráficas para un análisis más exhaustivo de la data. 
 
 
-hallazgos principales y Conclusiones 
+Hallazgos principales y Conclusiones 
  
-Para nuestro primer análisis general acerca de la economía en cada una de las provincias ecuatoriana. Estos primeros resultados ya los presentamos como un estudio preliminar. Las principales provincias en el mercado local claramente son pichincha, guayas, Azuay. 
+-Para nuestro primer análisis general acerca de la economía en cada una de las provincias ecuatoriana. Estos primeros resultados ya los presentamos como un estudio preliminar. Las principales provincias en el mercado local claramente son pichincha, guayas, Azuay. 
 -Para las exportaciones Guayas logra superar a pichincha. Esto se debe a que Guayas exporta algunos de los productos estrella del comercio exterior como es el camarón que representa el 37% de las exportaciones de Guayas.
 -Seguido del Banano alrededor del 35%
-No hay duda que uno de los puertos marítimos de Ecuador principales es el de Guayaquil. Debemos destacar las enormes posibilidades tanto para exportaciones como importaciones procedentes del Océano Pacífico de la región.
-El 90 % de la carga aérea del país se mueve por el aeropuerto Mariscal Sucre, de Quito. Esto implica, exportaciones, importaciones y carga doméstica (en su mayoría paquetería) que se traslada entre las distintas ciudades.
-Se hablaba también de este año en San Valentín siendo también el día con mayor volumen de exportación en toda la historia del aeropuerto de Quito. Record de exportaciones de flores 
+-No hay duda que uno de los puertos marítimos de Ecuador principales es el de Guayaquil. Debemos destacar las enormes posibilidades tanto para exportaciones como importaciones procedentes del Océano Pacífico de la región.
+-El 90 % de la carga aérea del país se mueve por el aeropuerto Mariscal Sucre, de Quito. Esto implica, exportaciones, importaciones y carga doméstica (en su mayoría paquetería) que se traslada entre las distintas ciudades.
+-Se destaca también de este año en San Valentín siendo también el día con mayor volumen de exportación en toda la historia del aeropuerto de Quito. Record de exportaciones de flores 
 
 
  
--Análisis de los principales puntos de comercio exterior. 
+Análisis detallado de los principales puntos de comercio exterior (Pichincha y Guayas)
 
-En la provincia de Guayas se tiene claramente a Guayaquil pero de igual manera a Durán que aporta con 2mil millones de exportaciones. 
- Centro Logístico en Durán, para ofrecer servicios a toda la cadena de comercio exterior
-El Centro Logístico se levanta en la zona industrial del cantón Durán. instalaciones amplias, modernas y seguras con espacios destinados para facilidad de logística de exportaciones. 
+-En la provincia de Guayas se tiene claramente a Guayaquil pero de igual manera a Durán que aporta con 2mil millones de exportaciones. 
+- Centro Logístico en Durán, para ofrecer servicios a toda la cadena de comercio exterior
+-El Centro Logístico se levanta en la zona industrial del cantón Durán. instalaciones amplias, modernas y seguras con espacios destinados para facilidad de logística de exportaciones. 
 
-En pichincha solo se cuenta con Quito como ciudad principal de exportación, sería interesante analizar si otros cantones de pichincha podrían desarrollarse para que se potencie más la exportación en esta provincia ya que es la segunda principal.
+-En pichincha solo se cuenta con Quito como ciudad principal de exportación, sería interesante analizar si otros cantones de pichincha podrían desarrollarse para que se potencie más la exportación en esta provincia ya que es la segunda principal.
 
 
 
 Estudio detallado de Azuay. 
 
-Cada una de estas provincias vende localmente tres o seis veces más de lo que exporta, menos Azuay, donde las ventas en el mercado interno son 40 veces mayores que sus exportaciones. 
+-Cada una de estas provincias vende localmente tres o seis veces más de lo que exporta, menos Azuay, donde las ventas en el mercado interno son 40 veces mayores que sus exportaciones. 
 
 1.	Diferencia en la Composición de las Exportaciones:
 o	Pichincha, que incluye la capital Quito, tiene una economía más diversificada y una mayor concentración de empresas. 
