@@ -9,6 +9,7 @@ Con la base de datos proporcionada por el SRI en el año 2023 mediante limpieza 
 
  Metodología 
 La metodología que se utilizó fue la siguiente: 
+
 •	Se utilizó la base de datos completa de todas las transacciones en el año 2023 
 •	Se importó a un notebook de Python en jupyter y visual studio 
 •	Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
