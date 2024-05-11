@@ -14,28 +14,22 @@ Con la base de datos proporcionada por el SRI en el año 2023 mediante limpieza 
  
 La metodología que se utilizó fue la siguiente: 
 
--Se utilizó la base de datos completa de todas las transacciones en el año 2023 
+Se utilizó la base de datos completa de todas las transacciones en el año 2023 
 
--	Se importó a un notebook de Python en jupyter y visual studio
+Se importó a un notebook de Python en jupyter y visual studio
   
 -Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
 
  Prosiguió la limpieza de datos:
-  
--Estructurar el data frame omitiendo separadores
-
--Eliminando y garantizando que no existan datos duplicados 
-
+ -Estructurar el data frame omitiendo separadores
+ -Eliminando y garantizando que no existan datos duplicados 
 -	Transformar la mayoría de variables que se leían como texto cadena previo a numérico.
-  
--El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos 
-
--Cargar sea born y matplotlib para generar los primeros gráficos de análisis 
-
+-	El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos
+-	Cargar sea born y matplotlib para generar los primeros gráficos de análisis
 -	Con el soporte de Tableu un software para explorar, crear visualizaciones se elaborar las demás gráficas para un análisis más exhaustivo de la data. 
 
 
-Hallazgos principales y Conclusiones 
+Hallazgos Generales y Conclusiones 
  
 -Para nuestro primer análisis general acerca de la economía en cada una de las provincias ecuatoriana. Estos primeros resultados ya los presentamos como un estudio preliminar. Las principales provincias en el mercado local claramente son pichincha, guayas, Azuay. 
 
