@@ -2,13 +2,17 @@
 Estudio SRI 2023 
 
 Descripción del proyecto:
+
 Con la base de datos proporcionada por el SRI en el año 2023 mediante limpieza de datos por código y análisis gráfico en Python al igual que Tableu encontrar características relevantes sobre como funciona el mercado ecuatoriano. Desde análisis genérico hasta resultados específicos para así poder llegar a posibles recomendaciones. 
+
  Introducción breve al problema de investigación:
 ¿Cuáles son las características principales del mercado local y extranjero del Ecuador?
 ¿De qué manera se podría potenciar más el mercado local y extranjero en las 3 provincias más importantes del Ecuador como son Pichincha, Guayas, Azuay?
 
  Metodología 
+ 
 La metodología que se utilizó fue la siguiente: 
+
 •	Se utilizó la base de datos completa de todas las transacciones en el año 2023 
 •	Se importó a un notebook de Python en jupyter y visual studio 
 •	Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
@@ -33,6 +37,7 @@ Se hablaba también de este año en San Valentín siendo también el día con ma
 
  
 -Análisis de los principales puntos de comercio exterior. 
+
 En la provincia de Guayas se tiene claramente a Guayaquil pero de igual manera a Durán que aporta con 2mil millones de exportaciones. 
  Centro Logístico en Durán, para ofrecer servicios a toda la cadena de comercio exterior
 El Centro Logístico se levanta en la zona industrial del cantón Durán. instalaciones amplias, modernas y seguras con espacios destinados para facilidad de logística de exportaciones. 
@@ -42,6 +47,7 @@ En pichincha solo se cuenta con Quito como ciudad principal de exportación, ser
 
 
 Estudio detallado de Azuay. 
+
 Cada una de estas provincias vende localmente tres o seis veces más de lo que exporta, menos Azuay, donde las ventas en el mercado interno son 40 veces mayores que sus exportaciones. 
 
 1.	Diferencia en la Composición de las Exportaciones:
@@ -56,6 +62,7 @@ o	En Azuay, aunque hay esfuerzos notables, como la exportación de cuyes a Estad
 
 
 Conclusiones 
+
 -Azuay podría analizar la posibilidad de aumentar sus exportaciones a destinos con más capacidad de consumo 
 -Podría aumentar su producción de agroindustria como las principales provincias 
 -Se necesita más inversión para que se desarrollen empresas más grandes corporaciones que tengan más capacidad de producción y ventas. 
