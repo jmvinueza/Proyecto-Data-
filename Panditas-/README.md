@@ -78,6 +78,6 @@ Conclusiones
 -Podría aumentar su producción de agroindustria como las principales provincias 
 -Se necesita más inversión para que se desarrollen empresas más grandes corporaciones que tengan más capacidad de producción y ventas. 
 
-
+**NOTA TODAS LAS GRÁFICAS REALIZADAS CON SU DEBIDO ANÁLISIS Y EVALUACIÓN SE ENCUENTRAN DENTRO DE LA PRESENTACIÓN FINAL ADJUNTA EN LA CARPETA DE D2L
 
 
