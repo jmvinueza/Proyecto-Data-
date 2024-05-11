@@ -19,14 +19,14 @@ La metodología que se utilizó fue la siguiente:
 
 •	Se cargaron las biblitocas de numpy y pandas son los DataFrames, las tablas bidimensionales con etiquetas en filas y columnas. métodos para limpiar, transformar y analizar conjuntos de datos de una manera más conveniente.
 
-•	Prosiguió la limpieza de datos: 
+Prosiguió la limpieza de datos: 
 
-o	Estructurar el data frame omitiendo separadores
-o	Eliminando y garantizando que no existan datos duplicados 
-o	Transformar la mayoría de variables que se leían como texto cadena previo a numérico. 
-o	El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos 
-o	Cargar sea born y matplotlib para generar los primeros gráficos de análisis 
-o	Con el soporte de Tableu un software para explorar, crear visualizaciones se elaborar las demás gráficas para un análisis más exhaustivo de la data. 
+Estructurar el data frame omitiendo separadores
+Eliminando y garantizando que no existan datos duplicados 
+Transformar la mayoría de variables que se leían como texto cadena previo a numérico. 
+El método groupby()  para agrupar datos en un DataFrame.  realizar operaciones de agregación y análisis en conjuntos de datos en este caso de suma, promedio, mínimos y máximos 
+Cargar sea born y matplotlib para generar los primeros gráficos de análisis 
+Con el soporte de Tableu un software para explorar, crear visualizaciones se elaborar las demás gráficas para un análisis más exhaustivo de la data. 
 
 hallazgos Generales 
 
