@@ -2,12 +2,15 @@
 Estudio SRI 2023 
 
 Descripción del proyecto:
+
 Con la base de datos proporcionada por el SRI en el año 2023 mediante limpieza de datos por código y análisis gráfico en Python al igual que Tableu encontrar características relevantes sobre como funciona el mercado ecuatoriano. Desde análisis genérico hasta resultados específicos para así poder llegar a posibles recomendaciones. 
+
  Introducción breve al problema de investigación:
 ¿Cuáles son las características principales del mercado local y extranjero del Ecuador?
 ¿De qué manera se podría potenciar más el mercado local y extranjero en las 3 provincias más importantes del Ecuador como son Pichincha, Guayas, Azuay?
 
  Metodología 
+ 
 La metodología que se utilizó fue la siguiente: 
 
 •	Se utilizó la base de datos completa de todas las transacciones en el año 2023 
